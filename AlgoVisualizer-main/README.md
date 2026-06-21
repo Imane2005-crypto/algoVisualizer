@@ -263,7 +263,8 @@ This project is licensed under the MIT License - see the LICENSE file for detail
   </p>
 </div>
 
-##My Contributions
+## My Contributions
+
 This project is based on the original work of Pavan (bPavan16), I implemented the following improvements:
   -Added comparisons counter.
   -Added swaps counter.
