@@ -266,9 +266,9 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 ## My Contributions
 
 This project is based on the original work of Pavan (bPavan16), I implemented the following improvements:
-  -Added comparisons counter.
-  -Added swaps counter.
-  -Added execution time mesurament.
-  -Fixed final visualization issues.
-  -Improved Heap sort statistics.
+  1.Added comparisons counter.
+  2.Added swaps counter.
+  3.Added execution time mesurament.
+  4.Fixed final visualization issues.
+  5.Improved Heap sort statistics.
 
