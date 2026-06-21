@@ -265,7 +265,8 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 
 ## My Contributions
 
-This project is based on the original work of Pavan (bPavan16), I implemented the following improvements:
+<p>This project is based on the original work of Pavan (bPavan16), I implemented the following improvements:</p>
+<br>
   1.Added comparisons counter.
   2.Added swaps counter.
   3.Added execution time mesurament.
